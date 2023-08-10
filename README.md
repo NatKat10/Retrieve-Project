@@ -8,3 +8,4 @@ To speed up searches for document titles, I made a special list that has documen
 To keep things running smoothly, I put the files with lists of search results into different groups on Google Cloud Platform. And I did some common calculations, like the Cosine Similarity formula, outside of the main search functions. This way, the search function works well and finds things fast.
 
 So, my changes help the search engine work better and get results quickly.
+![image](https://github.com/NatKat10/Retrieve-Project/assets/82222809/4c78a6f3-8095-4cbe-bff0-ef8481471b6a)
